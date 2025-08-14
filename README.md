@@ -1,7 +1,7 @@
 # Finance-Fraud-Analyzer
 A PySpark based modular pipeline designed for end-to-end financial fraud detection
 
-Setup Instructions
+**Setup Instructions**
 Follow the steps below to set up and run the PySpark-Based Financial Fraud Detection Pipeline from the GitHub repository.
 
 1. Clone the Repository
